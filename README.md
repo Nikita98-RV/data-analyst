@@ -20,7 +20,7 @@
 </ol>
 
 <p>Как решил: краткое описание решения (автореферат)<p>
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a>  
+> <a href="[https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx](https://github.com/Nikita98-RV/data-analyst/blob/main/folder/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%961%20%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80.xlsx)">Ссылка на проект</a>  
   
 <p>Выводы (итоги):<p>
 <ol>
