@@ -41,7 +41,7 @@
 
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
-> <a href="">Ссылка на проект</a>
+> <a href="https://github.com/Nikita98-RV/data-analyst/tree/main/folder/%D0%BF%D0%BE%D1%80%D0%B5%D0%BA%D1%82%202">Ссылка на проект</a>
  
 <p>Выводы (итоги):<p>
 <ol>
